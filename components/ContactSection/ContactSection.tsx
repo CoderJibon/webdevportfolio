@@ -12,8 +12,7 @@ function ContactSection() {
                 Let's work together!
               </h1>
               <p className="text-gray-200 mt-3 lg:text-base text-xs md:text-sm">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea
-                beatae quia excepturi corrupti repellendus. Aliquid!
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eabeatae quia excepturi corrupti repellendus. Aliquid!
               </p>
               <form className="mt-8 block w-full overflow-hidden">
                 <div className="flex flex-col md:flex-row items-center justify-between gap-4">
